@@ -30,7 +30,6 @@ The Calcium imaging workflow presented here uses pipeline components from 4 Data
 
 ### assembled with element-sensory-stimulation
 
-![element-sensory-stimulation] 
 
 ## Installation instructions
 

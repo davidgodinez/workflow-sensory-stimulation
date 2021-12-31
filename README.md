@@ -1,4 +1,4 @@
-# DataJoint Workflow-sensory-stimulation
+# DataJoint Workflow-Sensory-Stimulation
 
 Note: This README is still a work in progress.
 

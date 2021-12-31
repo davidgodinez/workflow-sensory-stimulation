@@ -1,0 +1,6 @@
+datajoint>=13.0
+element-sensory-stimulation
+element-lab
+element-animal
+element-session
+ipykernel

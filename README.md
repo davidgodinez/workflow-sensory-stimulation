@@ -1,6 +1,6 @@
 # DataJoint Workflow-Sensory-Stimulation
 
-Note: This README is still a work in progress.
+Note: This `workflow-sensory-stimulation` and `element-sensory-stimulation` is still a work in progress and has not been officially released.
 
 A complete imaging workflow can be built using the DataJoint elements:
 + [element-lab](https://github.com/datajoint/element-lab)
